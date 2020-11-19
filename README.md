@@ -1,2 +1,2 @@
-# Teaching-materials
-This repository contains my teaching portfolio as well as the supporting materials for the courses I have taught. 
+# Website-materials
+This repository contains my the supporting materials linked on my website. 
